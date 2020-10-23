@@ -1,4 +1,5 @@
-//user.c
+//Author: Donovan McDonough
+//Date: 10/22/2020
 
 #include <stdio.h>
 #include <stdlib.h>

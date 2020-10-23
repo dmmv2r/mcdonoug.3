@@ -1,4 +1,5 @@
-//oss.c
+//Auther: Donovan McDonough
+//Date: 10/22/2020
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -59,6 +60,7 @@ int main(int argc, char* argv[])
 	printf("file: %s\n", file);
 	printf("time: %d\n", time);
 
+	system("./user");
 
 	printf("ENDING OSS.C\n");
 	return 0;

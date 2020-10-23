@@ -1,0 +1,8 @@
+Author: Donovan McDonough
+Date: 10/22/2020
+
+Project is very incomplete but causes no issues when ran.
+
+Version Control accomplished using git. My github username is dmmv2r and the project name is under mcdonoug.3.
+
+In order to run this file, type ./oss. Program has default values but is able to take in user input. Use -h when running program for instructions.
